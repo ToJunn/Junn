@@ -1,3 +1,4 @@
-# Junn
-Hi! ![image](https://github.com/user-attachments/assets/07982380-c58d-4cc7-aee8-568ea1d171e3)
-I learn Artificial Intelligence and Data Analyst
+# Hi there, I'm Junn 👋
+I'm an AI Engineer and Data Analyst passionate about turning data into impactful insights and building smart solutions. Whether it's creating ML models, analyzing data trends, or building engaging interfaces, I love exploring all things AI and data.
+
+
